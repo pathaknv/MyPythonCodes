@@ -1,7 +1,3 @@
-# WebShrinker API Key: Dtyq1tE7tyISKmVngc78
-# Secret: fUIdiIWTtF1R6jPWG8NO
-
-
 import os
 import sqlite3
 from collections import OrderedDict
